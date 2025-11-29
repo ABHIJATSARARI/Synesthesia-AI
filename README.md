@@ -14,7 +14,7 @@
 
 ## 📽️ Project Demo
 
-[![App Icon](extras/icon.png)](LINK_TO_YOUR_YOUTUBE_VIDEO_HERE)
+[![App Icon](extras/icon.png)](https://youtu.be/h0y2V-Jzh_s)
 
 *Click to watch Synesthesia AI in action.*
 
