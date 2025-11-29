@@ -214,6 +214,8 @@ Synesthesia-AI/
    - Select "Open an Existing Project"
    - Navigate to the cloned directory
 
+> **📝 Note for Developers:** Large TensorFlow Lite libraries (`.a` files) are not included in the repository to comply with GitHub's 100MB file limit. These native libraries will be automatically generated when you build the project in Android Studio. If you need to regenerate the Edge Impulse SDK, export it from your Edge Impulse project.
+
 3. **Install NDK & CMake:**
    - Go to `Tools` > `SDK Manager`
    - Navigate to `SDK Tools` tab
