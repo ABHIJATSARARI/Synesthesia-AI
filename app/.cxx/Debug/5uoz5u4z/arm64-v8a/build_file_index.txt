@@ -1,0 +1,2 @@
+/Users/abhijat/Downloads/example-android-inferencing-main/example_camera_inference/app/src/main/cpp/CMakeLists.txt
+/Users/abhijat/Downloads/example-android-inferencing-main/example_camera_inference/app/src/main/cpp/edge-impulse-sdk/cmake/utils.cmake

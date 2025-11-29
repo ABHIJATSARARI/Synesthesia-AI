@@ -1,0 +1,1 @@
+/Users/abhijat/Downloads/example-android-inferencing-main/example_camera_inference/app/build/intermediates/cxx/Debug/5uoz5u4z/obj/arm64-v8a

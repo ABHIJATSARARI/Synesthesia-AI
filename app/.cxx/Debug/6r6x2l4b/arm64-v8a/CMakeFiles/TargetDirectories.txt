@@ -1,0 +1,4 @@
+/Users/abhijat/Downloads/example-android-inferencing-main/example_camera_inference/app/.cxx/Debug/6r6x2l4b/arm64-v8a/CMakeFiles/download_tflite.dir
+/Users/abhijat/Downloads/example-android-inferencing-main/example_camera_inference/app/.cxx/Debug/6r6x2l4b/arm64-v8a/CMakeFiles/synesthesia-ai.dir
+/Users/abhijat/Downloads/example-android-inferencing-main/example_camera_inference/app/.cxx/Debug/6r6x2l4b/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/abhijat/Downloads/example-android-inferencing-main/example_camera_inference/app/.cxx/Debug/6r6x2l4b/arm64-v8a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Synesthesia AI</string>
+    <string name="torch_icon">💡</string>
+    <string name="developer_signature">Abhijat Sarari</string>
+</resources>

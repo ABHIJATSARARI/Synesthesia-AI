@@ -1,0 +1,3 @@
+/Users/abhijat/Downloads/example-android-inferencing-main/example_camera_inference/app/.cxx/Debug/6r6x2l4b/arm64-v8a/CMakeFiles/download_tflite
+/Users/abhijat/Downloads/example-android-inferencing-main/example_camera_inference/app/.cxx/Debug/6r6x2l4b/arm64-v8a/CMakeFiles/download_tflite.rule
+/Users/abhijat/Downloads/example-android-inferencing-main/example_camera_inference/app/src/main/cpp/tflite/lib/android_arm64/libtensorflow-lite.a.rule

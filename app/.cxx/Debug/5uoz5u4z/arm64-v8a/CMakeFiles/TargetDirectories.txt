@@ -1,0 +1,3 @@
+/Users/abhijat/Downloads/example-android-inferencing-main/example_camera_inference/app/.cxx/Debug/5uoz5u4z/arm64-v8a/CMakeFiles/native-lib.dir
+/Users/abhijat/Downloads/example-android-inferencing-main/example_camera_inference/app/.cxx/Debug/5uoz5u4z/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/abhijat/Downloads/example-android-inferencing-main/example_camera_inference/app/.cxx/Debug/5uoz5u4z/arm64-v8a/CMakeFiles/rebuild_cache.dir
