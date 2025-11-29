@@ -123,11 +123,11 @@ We used the **Edge Impulse EON Tuner** to balance accuracy vs. latency.
 <div align="center">
 
 #### Model Performance Dashboard
-![Model Performance](extras/Screenshot%202025-11-29%20at%206.07.46%20PM.png)
+![Model Performance](extras/Screenshot12.png)
 *Edge Impulse model testing results showing 92.5% accuracy and optimized on-device performance.*
 
 #### Classification Results
-![Classification Results](extras/Screenshot%202025-11-29%20at%206.07.58%20PM.png)
+![Classification Results](extras/Screenshot45)
 *Real-time classification results demonstrating high confidence across all environmental classes.*
 
 </div>
@@ -193,7 +193,7 @@ Synesthesia-AI/
 
 1. **Download the APK:**
    - Navigate to `extras/app-debug.apk` in this repository
-   - Or download from [Releases](https://github.com/abhijatsarari/Synesthesia-AI/releases)
+   - Or download from [Releases](https://github.com/ABHIJATSARARI/Synesthesia-AI/blob/main/extras/app-debug.apk)
 
 2. **Install on Device:**
    - Enable "Install from Unknown Sources" in Android settings
